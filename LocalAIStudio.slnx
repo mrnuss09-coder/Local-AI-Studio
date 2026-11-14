@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LocalAIStudio.Core/LocalAIStudio.Core.csproj" />
+    <Project Path="src/LocalAIStudio/LocalAIStudio.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LocalAIStudio.Tests/LocalAIStudio.Tests.csproj" />
+  </Folder>
+</Solution>
